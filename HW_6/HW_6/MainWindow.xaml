@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HW_6"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Гаврилова УТС-22 В4" Height="450" Width="800">
     <Grid Background="#FFD4F1F3">
         <Grid x:Name="grid_new" HorizontalAlignment="Left" Height="420" Margin="0,0,-0.4,0" VerticalAlignment="Top" Width="794" Visibility="Hidden">
             <TextBox x:Name="txt_name" HorizontalAlignment="Left" Height="23" Margin="70,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TextChanged="TextChanged" Background="{x:Null}" BorderBrush="{x:Null}"/>
